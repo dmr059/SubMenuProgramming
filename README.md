@@ -1,4 +1,4 @@
-## SubMenu Console Menu Navigation 
+## SubMenu Console Navigation 
 
 This is a simple console-based C++ application demonstrating menu-driven navigation using functions and basic input validation.
 
