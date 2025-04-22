@@ -1,6 +1,6 @@
 ## SubMenu Console Navigation 
 
-This is a console-based C++ application demonstrating menu-driven navigation using functions and basic input validation.
+This is a console-based application demonstrating menu-driven navigation using functions and basic input validation.
 
 The project demonstrates:
 
