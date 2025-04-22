@@ -1,14 +1,10 @@
-This project is an experiment with programming logic for applications that will utilize 
-multi-menu structure for user navigation and execution!
+## SubMenu Console Menu Navigation 
 
-This program utilizes:
+This is a simple console-based C++ application demonstrating menu-driven navigation using functions and basic input validation.
 
-• function/module creation and call
+Key features:
 
-• input validation
-
-• case decision structure
-
-• input capture
-
-• do-while loop logic
+- Input validation
+- Functions
+- Loop and control structures
+- User interaction via terminal
